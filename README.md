@@ -12,6 +12,15 @@ I am a Backend Developer passionate about building scalable, efficient, and robu
 ![](https://streak-stats.demolab.com/?user=anuragsinghls011-webdeveloper&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuragsinghls011-webdeveloper&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+
+# 🚀 Featured Projects
+
+| 🏥 MediTrack | AI Powered Document Management System |  SARKAR SETU | 🌐 Portfolio Website |
+| :---: | :---: | :---: | :---: |
+| Hospital Inventory Management System<br><br>![MySQL](https://img.shields.io/badge/-MySQL-222222?style=flat-square) ![Python](https://img.shields.io/badge/-Python-222222?style=flat-square)<br><br>Inventory tracking • Optimized DB ops<br><br>[![View](https://img.shields.io/badge/View-8A2BE2?style=flat-square&logo=github&logoColor=white)](https://github.com/rach-kanc/MediTrack) | 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=anuragsinghls011-webdeveloper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
